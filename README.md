@@ -1,5 +1,5 @@
 
-👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
+👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定) 最好在这个网址下阅读 更加清晰且网速巨快！！！！          
 👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
 
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
